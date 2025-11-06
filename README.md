@@ -1,8 +1,12 @@
 <!-- 👨‍💻 Zakaria El Hallaoui | Full-Stack Web & AI Automation Engineer -->
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="Coding Animation" />
+</p>
+
+<p align="center">
   <a href="https://github.com/zack-elh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;AI+and+Automation+Engineer;Building+Smart+Web+Experiences;Always+Learning+and+Innovating+🤖" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=👨‍💻+Full-Stack+Web+Developer;🤖+AI+and+Automation+Engineer;🚀+Building+Smart+Web+Experiences;💡+Always+Learning+and+Innovating" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,11 +28,11 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me  
 Hey there! I’m **Zakaria El Hallaoui**, a passionate **Full-Stack Web & AI Automation Engineer**.  
 I love combining **AI**, **web technologies**, and **automation** to build scalable systems that make life easier — from intelligent backends to responsive frontends.
 
-🚀 **What I’m focused on:**
+🚀 **Currently focused on:**
 - 🤖 AI-driven web automation & assistants  
 - 🌐 Full-stack development (C#, Python, Java, JavaScript)  
 - 💾 Data pipelines with **MySQL**  
@@ -72,11 +76,11 @@ I love combining **AI**, **web technologies**, and **automation** to build scala
 
 ---
 
-## ⚡ AI & Automation Projects
-- 🤖 **AutoTasker** — an AI-based task automation bot integrating APIs and custom workflows.  
-- 🧩 **AI ChatOps** — connecting natural language processing with dev automation.  
-- 🕹️ **WebScrapeX** — automated web extraction and data structuring using Python & Selenium.  
-- 🌐 **SmartUI Engine** — CSS-animated interface builder using JavaScript automations.  
+## ⚡ Featured AI & Automation Projects
+- 🤖 **AutoTasker** — AI-based task automation bot integrating APIs and workflows  
+- 🧩 **AI ChatOps** — connects NLP with developer automation pipelines  
+- 🕹️ **WebScrapeX** — automated data extraction via Python & Selenium  
+- 🌐 **SmartUI Engine** — animated interface builder powered by JavaScript automation  
 
 ---
 
@@ -92,15 +96,6 @@ I love combining **AI**, **web technologies**, and **automation** to build scala
 
 ---
 
-
-
-h1 {
-  color: #00ffc3;
-  text-shadow: 0 0 10px #00ffc3, 0 0 20px #00ffc3;
-  animation: pulse 2s infinite;
-}
-@keyframes pulse {
-  0% { text-shadow: 0 0 5px #00ffc3; }
-  50% { text-shadow: 0 0 25px #00ffc3; }
-  100% { text-shadow: 0 0 5px #00ffc3; }
-}
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="AI Animation" />
+</p>

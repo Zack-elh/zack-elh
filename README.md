@@ -1,105 +1,147 @@
 <!-- 👨‍💻 Zakaria El Hallaoui | Full-Stack Web & AI Automation Engineer -->
 
-<p align="center">
-  <a href="https://github.com/zack-elh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=👨‍💻+Zakaria+El+Hallaoui;Full-Stack+Web+Developer;AI+and+Automation+Engineer;Always+Learning+and+Innovating+🤖" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+# 🚀 Zakaria El Hallaoui
+
+### **Full-Stack Web & AI Automation Engineer**
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zakaria-el-hallaoui-50427b284/">
-    <img width="40px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://github.com/zack-elh">
-    <img width="40px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="mailto:zakariaelhallaoui2002@gmail.com">
-    <img width="40px" alt="Email" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
-  </a>
-</p>
+<div align="center">
+
+### **Connect With Me**
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">](https://www.linkedin.com/in/zakaria-el-hallaoui-50427b284/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40">](https://github.com/zack-elh)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">](mailto:zakariaelhallaoui2002@gmail.com)
+
+</div>
 
 ---
 
-## 👋 About Me
+## 🎯 **About Me**
 
-Hey there! I’m **Zakaria El Hallaoui**, a passionate **Full-Stack Web & AI Automation Engineer**.  
+Hey there! I'm **Zakaria El Hallaoui**, a passionate **Full-Stack Web & AI Automation Engineer**.  
 I combine **AI**, **automation**, and **modern web technologies** to build intelligent systems that simplify workflows and improve performance — from backend logic to frontend animation.
 
-🚀 **Currently focusing on:**
-- 🤖 AI-driven automation & smart assistants  
-- 🌐 Scalable full-stack web apps (C#, Python, Java, JavaScript)  
-- 💾 MySQL data pipelines & integrations  
-- 🎨 Animated, clean UI/UX with CSS & JS  
-- 🧠 ML model integration in web automation  
+### 🚀 **Currently Focusing On:**
+- 🤖 **AI-driven automation & smart assistants**  
+- 🌐 **Scalable full-stack web apps** (C#, Python, Java, JavaScript)  
+- 💾 **MySQL data pipelines & integrations**  
+- 🎨 **Animated, clean UI/UX** with CSS & JS  
+- 🧠 **ML model integration** in web automation  
 
 ---
 
-## ⚡ Featured Tech Badge
+## ⚡ **Featured Technologies**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zack-elh/zack-elh/main/assets/java-badge.svg" alt="Java Badge" width="120"/>
-</p>
+<div align="center">
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-4ECDC4?style=for-the-badge&logo=fullstack&logoColor=white)
 
-## 🧠 Tech Stack
-
-### 💻 Languages
-<p align="left">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-68217A.svg?logo=csharp&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"/>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node-dot-js&logoColor=white"/>
-</p>
-
-### 🗄️ Database
-<p align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"/>
-</p>
-
-### ☁️ Tools & DevOps
-<p align="left">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## ⚡ AI & Automation Projects
+## 🛠 **Tech Stack**
 
-- 🤖 **AutoTasker** — AI-based task automation bot integrating APIs & workflows  
-- 🧩 **AI ChatOps** — natural language + automation for developer workflows  
-- 🕹️ **WebScrapeX** — Python & Selenium powered web extractor  
-- 🌐 **SmartUI Engine** — CSS-animated interface generator with automation  
+### **💻 Languages**
+<div align="center">
+  
+  ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### **⚙️ Frameworks & Libraries**
+<div align="center">
+  
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+### **🗄️ Database & Tools**
+<div align="center">
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Insights
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zack-elh&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zack-elh&theme=react&hide_border=true" />
-</p>
+## 🤖 **AI & Automation Projects**
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zack-elh&theme=react-dark&hide_border=true&area=true" />
-</p>
+### **🚀 AutoTasker**
+AI-based task automation bot integrating APIs & workflows  
+**Tech:** `Python` `AI` `APIs` `Automation`
+
+### **💬 AI ChatOps**
+Natural language + automation for developer workflows  
+**Tech:** `JavaScript` `AI` `Chat Integration`
+
+### **🌐 WebScrapeX**
+Python & Selenium powered web extractor  
+**Tech:** `Python` `Selenium` `Web Automation`
+
+### **🎨 SmartUI Engine**
+CSS-animated interface generator with automation  
+**Tech:** `CSS` `JavaScript` `UI Automation`
 
 ---
 
-<p align="center">✨ Designed with precision, AI, and automation ✨</p>
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<!-- Stats Cards -->
+<a href="https://github.com/zack-elh">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zack-elh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/zack-elh">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zack-elh&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
+</a>
+
+<!-- Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zack-elh&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+### **⚡ Quick Stats**
+  
+![Profile Views](https://komarev.com/ghpvc/?username=zack-elh&color=blueviolet&label=Profile+Views&style=flat)
+
+</div>
+
+---
+
+<div align="center">
+
+### **🎯 Let's Build Something Amazing!**
+
+```javascript
+const innovator = {
+  name: "Zakaria El Hallaoui",
+  role: "Full-Stack & AI Automation Engineer",
+  passion: "Building intelligent systems",
+  focus: ["AI Automation", "Web Development", "Innovation"],
+  motto: "Transforming ideas into intelligent solutions"
+};

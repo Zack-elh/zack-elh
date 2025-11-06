@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Zakaria El Hallaoui
+# 🚀🐺Zakaria El Hallaoui
 
 ### **Full-Stack Web & AI Automation Engineer**
 
@@ -25,7 +25,7 @@
 ## 🎯 **About Me**
 
 Hey there! I'm **Zakaria El Hallaoui**, a passionate **Full-Stack Web & AI Automation Engineer**.  
-I combine **AI**, **automation**, and **modern web technologies** to build intelligent systems that simplify workflows and improve performance — from backend logic to frontend animation.
+I combine **AI**, **automation**, and **modern web technologies** to build intelligent systems that simplify workflows and improve performance from backend logic to frontend animation.
 
 ### 🚀 **Currently Focusing On:**
 - 🤖 **AI-driven automation & smart assistants**  
@@ -93,10 +93,6 @@ AI-based task automation bot integrating APIs & workflows
 ### **💬 AI ChatOps**
 Natural language + automation for developer workflows  
 **Tech:** `JavaScript` `AI` `Chat Integration`
-
-### **🌐 WebScrapeX**
-Python & Selenium powered web extractor  
-**Tech:** `Python` `Selenium` `Web Automation`
 
 ### **🎨 SmartUI Engine**
 CSS-animated interface generator with automation  

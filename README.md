@@ -1,12 +1,8 @@
 <!-- 👨‍💻 Zakaria El Hallaoui | Full-Stack Web & AI Automation Engineer -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="Coding Animation" />
-</p>
-
-<p align="center">
   <a href="https://github.com/zack-elh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=👨‍💻+Full-Stack+Web+Developer;🤖+AI+and+Automation+Engineer;🚀+Building+Smart+Web+Experiences;💡+Always+Learning+and+Innovating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=👨‍💻+Zakaria+El+Hallaoui;Full-Stack+Web+Developer;AI+and+Automation+Engineer;Always+Learning+and+Innovating+🤖" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,16 +24,25 @@
 
 ---
 
-## 👋 About Me  
-Hey there! I’m **Zakaria El Hallaoui**, a passionate **Full-Stack Web & AI Automation Engineer**.  
-I love combining **AI**, **web technologies**, and **automation** to build scalable systems that make life easier — from intelligent backends to responsive frontends.
+## 👋 About Me
 
-🚀 **Currently focused on:**
-- 🤖 AI-driven web automation & assistants  
-- 🌐 Full-stack development (C#, Python, Java, JavaScript)  
-- 💾 Data pipelines with **MySQL**  
-- 🎨 Clean, animated UI/UX using HTML, CSS & JS  
-- 🧠 Experimenting with machine learning integrations  
+Hey there! I’m **Zakaria El Hallaoui**, a passionate **Full-Stack Web & AI Automation Engineer**.  
+I combine **AI**, **automation**, and **modern web technologies** to build intelligent systems that simplify workflows and improve performance — from backend logic to frontend animation.
+
+🚀 **Currently focusing on:**
+- 🤖 AI-driven automation & smart assistants  
+- 🌐 Scalable full-stack web apps (C#, Python, Java, JavaScript)  
+- 💾 MySQL data pipelines & integrations  
+- 🎨 Animated, clean UI/UX with CSS & JS  
+- 🧠 ML model integration in web automation  
+
+---
+
+## ⚡ Featured Tech Badge
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zack-elh/zack-elh/main/assets/java-badge.svg" alt="Java Badge" width="120"/>
+</p>
 
 ---
 
@@ -76,11 +81,12 @@ I love combining **AI**, **web technologies**, and **automation** to build scala
 
 ---
 
-## ⚡ Featured AI & Automation Projects
-- 🤖 **AutoTasker** — AI-based task automation bot integrating APIs and workflows  
-- 🧩 **AI ChatOps** — connects NLP with developer automation pipelines  
-- 🕹️ **WebScrapeX** — automated data extraction via Python & Selenium  
-- 🌐 **SmartUI Engine** — animated interface builder powered by JavaScript automation  
+## ⚡ AI & Automation Projects
+
+- 🤖 **AutoTasker** — AI-based task automation bot integrating APIs & workflows  
+- 🧩 **AI ChatOps** — natural language + automation for developer workflows  
+- 🕹️ **WebScrapeX** — Python & Selenium powered web extractor  
+- 🌐 **SmartUI Engine** — CSS-animated interface generator with automation  
 
 ---
 
@@ -96,6 +102,4 @@ I love combining **AI**, **web technologies**, and **automation** to build scala
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="AI Animation" />
-</p>
+<p align="center">✨ Designed with precision, AI, and automation ✨</p>

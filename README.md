@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/zack-elh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;AI+and+Automation+Engineer;Building+Smart+Web+Experiences;Always+Learning+and+Innovating+🤖" alt="Typing SVG" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 Hey there! I’m **Zakaria El Hallaoui**, a passionate **Full-Stack Web & AI Automation Engineer**.  
-I love combining **AI**, **web technologies**, and **automation** to build scalable systems that make life easier — from intelligent backends to responsive frontends.
+I love combining **AI**, **web technologies**, and **automation** to build scalable systems that make life easier from intelligent backends to responsive frontends.
 
 🚀 **What I’m focused on:**
 - 🤖 AI-driven web automation & assistants  
